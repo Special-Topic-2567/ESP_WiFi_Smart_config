@@ -8,3 +8,5 @@
 
 
 บันทึก output log ส่งขึ้น github 
+
+https://github.com/SitthaKlaphanich/smart_config.git
