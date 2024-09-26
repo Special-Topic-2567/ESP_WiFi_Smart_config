@@ -8,3 +8,4 @@
 
 
 บันทึก output log ส่งขึ้น github 
+https://github.com/likunzz/smart_config
