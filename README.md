@@ -104,6 +104,11 @@ I (247952) sc: smartconfig over
 
 
 
+https://github.com/AnchisaPhetnoi/smart_config.git
+
+
+
+
 
 
 >>>>>>> 6576252ae34a6e88211ea5255cf0202a1334c18a
