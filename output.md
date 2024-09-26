@@ -1,4 +1,4 @@
- ` ` `
+```
 load:0x40080404,len:3904     
 entry 0x40080640
 I (31) boot: ESP-IDF v5.3.1 2nd stage bootloader
@@ -107,4 +107,4 @@ I (62760) smartconfig_example: WiFi Connected to ap
 I (62900) wifi:<ba-add>idx:0 (ifx:0, 30:0a:c5:9e:94:9f), tid:6, ssn:0, winSize:64
 I (62910) wifi:<ba-add>idx:1 (ifx:0, 30:0a:c5:9e:94:9f), tid:0, ssn:4, winSize:64
 I (65800) smartconfig_example: smartconfig over
- ` ` `
+```
