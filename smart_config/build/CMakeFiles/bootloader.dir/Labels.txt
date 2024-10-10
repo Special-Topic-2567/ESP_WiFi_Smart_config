@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/CMakeFiles/bootloader
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/CMakeFiles/bootloader.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/CMakeFiles/bootloader-complete.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/omelaweng/ESP_WiFi_Smart_config_65030027/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
