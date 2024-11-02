@@ -1,4 +1,4 @@
-'''
+```
 I (372) wifi: mode : sta (24:0a:c4:00:44:86)
 I (422) smartconfig: SC version: V2.6.6
 I (3802) wifi: ic_enable_sniffer
@@ -24,4 +24,4 @@ I (244892) sc: WiFi Connected to ap
 I (247952) sc: SC_STATUS_LINK_OVER
 I (247952) sc: Phone ip: 192.168.0.31
 I (247952) sc: smartconfig over
-'''
+```
